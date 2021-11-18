@@ -1,0 +1,10 @@
+{
+  "name": "decal",
+  "start_url": "index.js",
+  "components": [
+    {
+      "key": "type",
+      "value": "footprint"
+    }
+  ]
+}
