@@ -1,10 +1,4 @@
 {
-  "name": "decal",
-  "start_url": "index.js",
-  "components": [
-    {
-      "key": "type",
-      "value": "footprint"
-    }
-  ]
+  "name": "decals",
+  "start_url": "index.js"
 }
